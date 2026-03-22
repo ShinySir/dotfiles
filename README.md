@@ -62,6 +62,6 @@ stow .
 ```
 
 ---
-zsh plugins=(git zoxide zsh-autosuggestions history zsh-syntax-highlighting zsh-bat fzf) 
-lazyvim on neovim
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+zsh plugins=(git zoxide zsh-autosuggestions history zsh-syntax-highlighting zsh-bat fzf) <br>
+lazyvim on neovim <br>
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm <br>
