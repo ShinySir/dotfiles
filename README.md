@@ -2,10 +2,14 @@
 
 ```bash
 # Debian/Ubuntu
-sudo apt install git stow
+sudo apt install stow
 
 # Arch
-sudo pacman -S git stow
+sudo pacman -S stow
+
+# Homebrew
+brew install stow
+
 ```
 
 ---
