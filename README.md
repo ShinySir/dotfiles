@@ -62,4 +62,4 @@ stow .
 ```
 
 ---
-
+plugins=(git zoxide zsh-autosuggestions history zsh-syntax-highlighting zsh-bat fzf) lazyvim on neovim
