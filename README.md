@@ -22,10 +22,10 @@ cd ~/dotfiles
 ### 3. Backup existing configs if needed
 
 ```bash
-mv ~/.zshrc ~/.zshrc.backup 2>/dev/null
-mv ~/.bashrc ~/.bashrc.backup 2>/dev/null
-mv ~/.tmux.conf ~/.tmux.conf.backup 2>/dev/null
-mv ~/.config ~/.config.backup 2>/dev/null
+mv ~/.zshrc ~/.zshrc.backup
+mv ~/.bashrc ~/.bashrc.backup
+mv ~/.tmux.conf ~/.tmux.conf.backup
+mv ~/.config ~/.config.backup
 ```
 
 ---
