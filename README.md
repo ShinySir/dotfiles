@@ -64,4 +64,5 @@ stow .
 ---
 zsh plugins=(git zoxide zsh-autosuggestions history zsh-syntax-highlighting zsh-bat fzf) <br>
 lazyvim on neovim <br>
+oh my posh and oh my zsh on zsh and fish
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm <br>
