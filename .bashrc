@@ -118,3 +118,5 @@ fi
 
 
 
+
+source /home/wolf/.config/broot/launcher/bash/br

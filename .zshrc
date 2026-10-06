@@ -135,3 +135,6 @@ if [[ -n "$SSH_CONNECTION" && -z "$FASTFETCH_SHOWN" && -z "$TMUX" ]]; then
     fastfetch
     export FASTFETCH_SHOWN=1
 fi
+
+source /home/wolf/.config/broot/launcher/bash/br
+export EDITOR=nano
