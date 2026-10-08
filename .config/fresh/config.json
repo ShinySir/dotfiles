@@ -1,3 +1,9 @@
 {
-  "theme": "dark"
+  "theme": "catppuccin-mocha.json",
+  "file_explorer": {
+    "show_hidden": true
+  },
+  "file_browser": {
+    "show_hidden": true
+  }
 }

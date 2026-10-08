@@ -120,3 +120,6 @@ fi
 
 
 source /home/wolf/.config/broot/launcher/bash/br
+
+. "$HOME/.atuin/bin/env"
+eval "$(atuin init bash)"

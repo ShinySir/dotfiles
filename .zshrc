@@ -138,3 +138,7 @@ fi
 
 source /home/wolf/.config/broot/launcher/bash/br
 export EDITOR=nano
+
+. "$HOME/.atuin/bin/env"
+
+eval "$(atuin init zsh)"
